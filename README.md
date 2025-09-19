@@ -49,12 +49,6 @@ The project includes a simple dashboard (`dashboard` sheet) summarizing:
 - Age Distribution of Buyers  
 - Purchase Rate by Region & Commute Distance  
 
----
-
-## 🚀 Next Steps
-- Recreate the same analysis in **Power BI** for interactive dashboards.  
-- Apply **SQL** queries to answer business questions.  
-- Compare results across different tools.
 
 ---
 
